@@ -23,7 +23,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 ### Expectations
 
 * Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed upon.
-* You will only receive two excused absences. **A third absence for any reason will result in you losing one-third of your attendance points (XX% pts. off your grade). A fourth absence for any reason will earn you a zero on attendance, and you will not be able to earn more than a B- in the class.** 
+* You will only receive two excused absences. **A third absence for any reason will result in you losing one-half of your attendance points (10% pts. off your grade). A fourth absence for any reason will earn you a zero on attendance, and you will not be able to earn more than a B- in the class.** 
 * Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me and we reach an agreement **before** the class in which it was originally due. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
@@ -31,7 +31,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 * Complete [a final project](finalproject.md)
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 * Please make sure you have the following software:  
-	* Microsoft Excel
+	* Microsoft Excel 
 	* Sublime text editor (free)
 	* Tableau Public (free)
 	* We might dabble in some other free software as well, which we can download together. 
@@ -104,11 +104,11 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 **Class 5: Analyzing data (Oct. 26)**
 
-**Class 6: Covering federal govt with data (Nov. 2)**
+**Class 6: Data viz pt I (Nov. 2)**
 
-**Class 7: Data viz pt I (Nov. 9)**
+**Class 7: Data viz pt II (Nov. 9)**
 
-**Class 8: Data viz pt II (Nov. 16)**
+**Class 8: Covering federal govt with data (Nov. 16)**
 
 **Class 9: What the Hell is an API / Present stories (Nov. 23)**
 
