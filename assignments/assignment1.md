@@ -15,7 +15,7 @@ Markdown is a markup language that plays particularly well with github, producin
 ## Assignment
 
 1. Create a Github account. 
-1. Create a repository called *AU-data-spring-2021*. You will submit all your homework there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLSf9OIfKYRPcnt07dgIl5BPCWSg8C7xZ4RHErtlENUbyImGssA/viewform) so I know where to find your homework.
+1. Create a repository called *digitalframeworks-fall2021*. You will submit all your homework there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLSfk4ziRgQyN2-UTuat7TwsZjGZKJLJDymaIHoUvidJEeYr0Dw/viewform) so I know where to find your homework.
 2. Create a new file called assignment1.md
 3. Choose a [data-driven investigation from this list](https://docs.google.com/spreadsheets/d/1fBslhcz5EjNt4paGkQfCkYgcL69FaarU00B-OskKVQ8/edit?usp=sharing) and critiqiue it [following this template](../critique_template.md).
 	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original story.
@@ -29,6 +29,7 @@ Markdown is a markup language that plays particularly well with github, producin
    * A heading
    * A list or table
 1. Commit this assignment in your AU-data-spring-2021 repository.
+1. Subscribe to [The Why Axis](https://thewhyaxis.substack.com/) data journalism newsletter and read articles as they're published (they're short). We will discuss them in class.
 
 ## Reminder
 

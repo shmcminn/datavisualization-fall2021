@@ -67,18 +67,15 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Share data stories
 * Lecture
 * Interactive lesson
-* Introduce assignment 1
-* Working lunch (assignment, office hours)
-* Lecture
-* Introduce assignment 2
+* Introduce assignment
 * Free time (assignment, office hours, leave early)
 
 ### Schedule
 
-**Class 1: Start here!/Story assignments (Jan. 23)**
+**Class 1: Start here!/Story assignments (Sept. 28)**
 
 * Lecture
-	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSdN8j56FcuqKT0G_nCiGOrqiadN6Nqj9iAr9jxVN-m03TiyGA/viewform)
+	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSft2wvlASCHrmfdEq0xEzRW_1RGODXWxvSFlTAHNd-HV-awqQ/viewform)
 	* What can data do
 	* Steps to a data story:
 	   * Find data
@@ -90,40 +87,30 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 	* Introduce final project
 * Interactive lesson
 	*  Learn to use github
-	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSf9OIfKYRPcnt07dgIl5BPCWSg8C7xZ4RHErtlENUbyImGssA/viewform)
-* Assignment 1 - _in class_
+	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSfk4ziRgQyN2-UTuat7TwsZjGZKJLJDymaIHoUvidJEeYr0Dw/viewform)
+* [Assignment 1](../assignments/assignment1.md) - _in class_
 * Present the story you critiqued
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
 	* Assign students to pitches
-* Assignment 2 - _start in class, due beginning of next class_
-
-**Class 2: Finding data/Cleaning data (Jan. 30)**
 
 
+**Class 2: Finding data (Oct. 5)**
 
-**Class 3: Analyzing data/Work on Stories (Feb. 6)**
+**Class 3: Cleaning data (Oct. 12)**
 
-
-
-*__No class on Feb. 13__*
-
-**Class 4: Data viz parts I + II (Feb. 20)**
-
-
-
-**Class 5: Statistics for journalists/Covering the federal government with data/What the hell is is an API? (Feb. 27)**
-
-
-
-**Class 6: Story presentations/Deconstructing a story/Panel discussion (March 6)** 
-
-
+**Class 4: Stats for journalists  (THURSDAY Oct. 21)**
+**Class 5: Analyzing data (Oct. 26)**
+**Class 6: Covering federal govt with data (Nov. 2)**
+**Class 7: Data viz pt I (Nov. 9)**
+**Class 8: Data viz pt II (Nov. 16)**
+**Class 9: What the Hell is an API / Present stories (Nov. 23)**
+**Class 10: Guest speakers (Nov. 30)**
 
 
 ### [Final project](finalproject.md)
 
-Due by the last class (March 6) will be a data-driven story of between 1,000 and 2,000 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the second-to-last class (Nov 23) will be a data-driven story of between 1,000 and 2,000 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
 
 
