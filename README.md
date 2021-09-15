@@ -101,11 +101,17 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 **Class 3: Cleaning data (Oct. 12)**
 
 **Class 4: Stats for journalists  (THURSDAY Oct. 21)**
+
 **Class 5: Analyzing data (Oct. 26)**
+
 **Class 6: Covering federal govt with data (Nov. 2)**
+
 **Class 7: Data viz pt I (Nov. 9)**
+
 **Class 8: Data viz pt II (Nov. 16)**
+
 **Class 9: What the Hell is an API / Present stories (Nov. 23)**
+
 **Class 10: Guest speakers (Nov. 30)**
 
 
