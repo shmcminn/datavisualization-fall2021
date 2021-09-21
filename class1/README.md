@@ -19,5 +19,6 @@
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
-	* Assign students to pitches
-* [Assignment 2](../assignments/assignment2.md) - _in class_
+	* Assign students to pitches 
+
+	
