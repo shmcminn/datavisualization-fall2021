@@ -27,7 +27,8 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 * Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me and we reach an agreement **before** the class in which it was originally due. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
-* Consume the news every week, and come to class ready to share at least one story that uses data in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). 
+* Consume the news every week, and come to class ready to share at least one story that uses data in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). This will count toward your participation/attendance grade.
+* Subscribe (for free) and read [The Why Axis](https://thewhyaxis.substack.com/subscribe) by Christopher Ingraham. Come to class prepared to discuss. I will call on people to talk about it and this will count toward your participation/attendance grade.
 * Complete [a final project](finalproject.md)
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 * Please make sure you have the following software:  
