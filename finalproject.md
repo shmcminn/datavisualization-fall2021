@@ -2,7 +2,7 @@
 
 You must complete a final project for this class, either in groups or -- upon request -- individually. The project has two components:
 
-1. A story between 1,000 and 2,000 words based substantially on a dataset, with at least two data visualizations, due by 9 a.m. on March 6.
+1. A story between 1,000 and 2,000 words based substantially on a dataset, with at least two data visualizations, due by 9 a.m. on Nov 23.
 2. In the second-to-last class (Nov 23), a fellow student will interview you about the piece.
 
 The story should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
