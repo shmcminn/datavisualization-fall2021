@@ -1,4 +1,4 @@
-**Class 1: Start here!/Story assignments (Jan. 23)**
+**Class 1: Start here!/Story assignments (Sept. 28)**
 
 * Lecture
 	* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSft2wvlASCHrmfdEq0xEzRW_1RGODXWxvSFlTAHNd-HV-awqQ/viewform)
@@ -15,10 +15,9 @@
 	*  Learn to use github
 	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSfk4ziRgQyN2-UTuat7TwsZjGZKJLJDymaIHoUvidJEeYr0Dw/viewform)
 * [Assignment 1](../assignments/assignment1.md) - _in class_
-* Present the story you critiqued
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
 	* Assign students to pitches 
 
-	
+

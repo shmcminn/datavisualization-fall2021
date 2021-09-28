@@ -1,4 +1,4 @@
-# Medill Digital Frameworks Fall 2021
+# Medill Data Journalism Fall 2021
 
 **Instructor**: Sean McMinn
 
@@ -90,11 +90,10 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 	*  Learn to use github
 	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSfk4ziRgQyN2-UTuat7TwsZjGZKJLJDymaIHoUvidJEeYr0Dw/viewform)
 * [Assignment 1](../assignments/assignment1.md) - _in class_
-* Present the story you critiqued
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
-	* Assign students to pitches
+	* Assign students to pitches 
 
 
 **Class 2: Finding data (Oct. 5)**
@@ -118,6 +117,6 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 ### [Final project](finalproject.md)
 
-Due by the second-to-last class (Nov 23) will be a data-driven story of between 1,000 and 2,000 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the second-to-last class (Nov. 23) will be a data-driven story of between 1,000 and 2,000 words. This should include at least two data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
 
 
