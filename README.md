@@ -4,7 +4,7 @@
 
 **Contact**: smcminn@northwestern.edu On weekdays, I will try to respond to all emails within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up email.
 
-**Class time**: 6 p.m. - 9 p.m., Saturdays
+**Class time**: 6 p.m. - 9 p.m., Tuesdays
 
 **Office hours**: During class or by appointment
 
@@ -89,7 +89,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 * Interactive lesson
 	*  Learn to use github
 	*  [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLSfk4ziRgQyN2-UTuat7TwsZjGZKJLJDymaIHoUvidJEeYr0Dw/viewform)
-* [Assignment 1](../assignments/assignment1.md) - _in class_
+* [Assignment 1](assignments/assignment1.md) - _in class_
 * Compile story pitches
 	* Everyone goes through and explains their pitches
 	* Class votes on pitches
