@@ -100,7 +100,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 **Class 3: Cleaning data (Oct. 12)**
 
-**Class 4: Stats for journalists  (THURSDAY Oct. 21)**
+**Class 4: Stats for journalists  (WEDNESDAY Oct. 20)**
 
 **Class 5: Analyzing data (Oct. 26)**
 
