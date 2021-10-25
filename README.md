@@ -2,7 +2,7 @@
 
 **Instructor**: Sean McMinn
 
-**Contact**: smcminn@northwestern.edu On weekdays, I will try to respond to all emails within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up email.
+**Contact**: Slack is best. On weekdays, I will try to respond to all messages within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up message.
 
 **Class time**: 6 p.m. - 9 p.m., Tuesdays
 
@@ -36,7 +36,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 	* Sublime text editor (free)
 	* Tableau Public (free)
 	* We might dabble in some other free software as well, which we can download together. 
-* I will use email as the primary means of communicating with the class, making your use a required element. Please make sure you check your email daily.
+* I will use Slack as the primary means of communicating with the class, making your use a required element. Please make sure you check your Slack daily.
 * All lectures/assignments/class materials will be available on Github.
 
 
