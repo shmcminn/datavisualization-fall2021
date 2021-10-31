@@ -104,7 +104,7 @@ Students are encouraged to discuss assignments. Your final work, however, must b
 
 **Class 5: Analyzing data (Oct. 26)**
 
-**Class 6: Data viz pt I (Nov. 2)**
+**Class 6: Data viz pt I (WEDNESDAY Nov. 3)**
 
 **Class 7: Data viz pt II (Nov. 9)**
 
